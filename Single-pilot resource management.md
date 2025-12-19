@@ -1,0 +1,1 @@
+***Single-pilot resource management*** ([[SRM]]) is the management of all available, both onboard and outside the airplane, resources prior and during flight to ensure the successful completion of a flight.

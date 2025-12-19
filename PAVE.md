@@ -1,0 +1,4 @@
+- **P**ilot - Evaluate your training, experience, and fitness.
+- **A**ircraft - Determine airworthiness, performance, and proper configuration. Check avionics airworthiness.
+- en**V**ironment - Assess items such as airport conditions, terrain and airspace, and weather.
+- **E**xternal Pressure - Evaluate the purpose of the flight and how critical it is to maintain the schedule.

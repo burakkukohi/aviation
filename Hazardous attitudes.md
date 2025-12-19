@@ -1,0 +1,5 @@
+- **Anti-authority** - You display this attitude if you resent having someone tell you what to do, or you regard rules and procedures as unnecessary.
+- **Impulsivity** - If you feel the need to act immediately and do the first thing that comes to mind without considering the best solution to a problem, then you are exhibiting impulsivity.
+- **Invulnerability** - You are more likely to take chances and increase risk if you think accidents will not happen to you.
+- **Macho** - If you have this attitude, you might take risks trying to prove that you are better than anyone else.
+- **Resignation** - You are experiencing resignation if you feel that no matter what you do it will have little effect on what happens to you. This feeling can cause you to leave the action to others.

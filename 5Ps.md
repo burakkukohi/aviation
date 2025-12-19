@@ -1,0 +1,5 @@
+- **P**ilot - Evaluate your training, experience, and fitness.
+- **P**assengers - Consider your passengers' experience, flexibility, and fitness.
+- **P**lane - Determine airworthiness, performance, and proper configuration.
+- **P**rogramming - Check avionics airworthiness, operation, and configuration.
+- **P**lan - Assess items such as airport conditions, terrain and airspace, and weather. Evaluate the mission - the purpose of the flight - and how critical it is to maintain schedule.

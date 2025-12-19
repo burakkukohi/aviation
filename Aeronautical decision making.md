@@ -1,0 +1,1 @@
+***Aeronautical decision making*** ([[ADM]]) is a systematic approach for aircraft pilots to consistently determine the best course of action in response to specific circumstances.
