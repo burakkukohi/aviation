@@ -1,0 +1,1 @@
+***Situational awareness*** is the accurate perception of all the operational and environmental factors that affect flight safety.
