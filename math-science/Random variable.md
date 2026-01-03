@@ -1,0 +1,1 @@
+A ***random variable*** $X$ is a measurable function $X : \Omega \to E$ from a sample space $\Omega$ of possible outcomes to a measurable space $E$.
